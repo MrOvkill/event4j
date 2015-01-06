@@ -1,4 +1,4 @@
-event4j
+Event for Java
 =======
 
 A Java event manager.
